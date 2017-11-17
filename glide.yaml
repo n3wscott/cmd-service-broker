@@ -2,3 +2,4 @@ package: github.com/n3wscott/cmd-service-broker
 import:
 - package: github.com/gorilla/mux
   version: ^1.6.0
+- package: github.com/golang/glog

@@ -1,6 +1,10 @@
-hash: 5ea883129abe1847d6612e8e82eb5cf3c55c663d8c9b2baecbcfeaaf12aec556
-updated: 2017-11-17T08:10:14.17680294-08:00
+hash: 41ef849d6a3176f7700e2dd5d6fb806ff0cc54403e9284903f8328b59e1b7c5b
+updated: 2017-11-17T14:53:43.3602159-08:00
 imports:
+- name: github.com/golang/glog
+  version: 44145f04b68cf362d9c4df2182967c2275eaefed
+- name: github.com/gorilla/context
+  version: 215affda49addc4c8ef7e2534915df2c8c35c6cd
 - name: github.com/gorilla/mux
   version: 7f08801859139f86dfafd1c296e2cba9a80d292e
 testImports: []
